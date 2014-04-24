@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Dali]]></title>
-  <link href="http://loveli.me/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Love | Dali]]></title>
+  <link href="http://loveli.me/blog/categories/love/atom.xml" rel="self"/>
   <link href="http://loveli.me/"/>
   <updated>2014-04-24T23:35:45+08:00</updated>
   <id>http://loveli.me/</id>
