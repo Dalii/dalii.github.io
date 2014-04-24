@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Dali]]></title>
-  <link href="http://Dalii.github.io/atom.xml" rel="self"/>
-  <link href="http://Dalii.github.io/"/>
-  <updated>2014-04-24T14:07:50+08:00</updated>
-  <id>http://Dalii.github.io/</id>
+  <link href="http://loveli.me/atom.xml" rel="self"/>
+  <link href="http://loveli.me/"/>
+  <updated>2014-04-24T14:17:28+08:00</updated>
+  <id>http://loveli.me/</id>
   <author>
     <name><![CDATA[Dali]]></name>
     
